@@ -1,0 +1,38 @@
+.reviews__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.reviews__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.reviews {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.name-rating {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reveiews__name {
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
+.reveiews__rating {
+  font-size: 16px;
+  color: #000;
+}
+
+.review {
+  font-size: 16px;
+  color: #000;
+}

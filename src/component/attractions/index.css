@@ -1,0 +1,25 @@
+.amenities__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.amenities__list {
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+}
+
+.amenities-content {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 16px;
+}
+
+.amenities__name {
+  color: #000;
+  font-size: 16px;
+}

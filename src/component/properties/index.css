@@ -1,0 +1,23 @@
+.properties__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.properties-title {
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 16px;
+}
+
+.properties-content {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
